@@ -1,9 +1,9 @@
-# 🍚 Toppings Rice Stall — OOP Food Ordering System
+# 🍚 Toppings Ta Bai — OOP Food Ordering System
 
 A console-based food ordering program in Python. The stall sells steamed rice with **Chicken**, **Beef**, or **Pork** toppings, each in **Plain** or **two signature flavors**.
 
 ```bash
-python rice_toppings_stall.py
+python LabExercise2.py
 ```
 
 ---
